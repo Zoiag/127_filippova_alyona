@@ -45,7 +45,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="JUnit.Task1_Tests.Check_DoubleLinkedList_pushBack">
+  <component name="RunManager" selected="JUnit.Task1_Tests.Check_DoubleLinkedList_">
     <configuration name="Task1_Tests.Check_DoubleLinkedList_" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="task_1" />
       <option name="PACKAGE_NAME" value="" />
@@ -78,9 +78,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_" />
         <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_pushBack" />
         <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_isEmpty" />
-        <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648208321147</updated>
-      <workItem from="1648208322392" duration="1851000" />
+      <workItem from="1648208322392" duration="2878000" />
     </task>
     <servers />
   </component>
