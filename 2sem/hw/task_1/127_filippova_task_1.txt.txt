@@ -1,1 +1,5 @@
+<имя файла>|<номер_строки>|<до> -> <после>|<имя_теста>
 DoubleLinkedList|11|return dummy == dummy -> return size == 0|Check_DoubleLinkedList_isEmpty2
+DoubleLinkedList|24|if(index < 0 || index > size) -> if(index < 0 || index >= size)|Check_DoubleLinkedList_pushFront2
+DoubleLinkedList|17|return dummy.getPrev() -> return dummy.getNext()|Check_DoubleLinkedList_getHead
+DoubleLinkedList|20|return dummy.getNext() -> return dummy.getPrev()|Check_DoubleLinkedList_getTaill

@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0e585f5-7f2e-44bc-9073-3e86d0923637" name="Changes" comment="" />
+    <list default="true" id="b0e585f5-7f2e-44bc-9073-3e86d0923637" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/127_filippova_task_1.txt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/127_filippova_task_1.txt.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_1/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task_1/DoubleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_1/DummyNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task_1/DummyNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_1/DynamicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task_1/DynamicArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_1/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task_1/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_1/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task_1/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_1/Task1_Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task_1/Task1_Tests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1_Tests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,15 +49,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.Task1_Tests.Check_DoubleLinkedList_">
+  <component name="RunManager" selected="JUnit.Task1_Tests.Check_DoubleLinkedList_getTaill">
     <configuration name="Task1_Tests.Check_DoubleLinkedList_" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="task_1" />
       <option name="PACKAGE_NAME" value="" />
@@ -56,11 +69,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_Tests.Check_DoubleLinkedList_isEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task1_Tests.Check_DoubleLinkedList_getTaill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="task_1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Task1_Tests" />
-      <option name="METHOD_NAME" value="Check_DoubleLinkedList_isEmpty" />
+      <option name="METHOD_NAME" value="Check_DoubleLinkedList_getTaill" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1_Tests.Check_DoubleLinkedList_isEmpty2" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="task_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Task1_Tests" />
+      <option name="METHOD_NAME" value="Check_DoubleLinkedList_isEmpty2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +99,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task1_Tests.Check_DoubleLinkedList_pushFront" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Task1_Tests" />
+      <option name="METHOD_NAME" value="Check_DoubleLinkedList_pushFront" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1_Tests.Check_DoubleLinkedList_pushFront2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Task1_Tests" />
+      <option name="METHOD_NAME" value="Check_DoubleLinkedList_pushFront2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_getTaill" />
+        <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_pushFront2" />
+        <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_pushFront" />
         <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_" />
         <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_pushBack" />
-        <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_isEmpty" />
       </list>
     </recent_temporary>
   </component>
