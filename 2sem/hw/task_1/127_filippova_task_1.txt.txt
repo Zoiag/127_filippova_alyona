@@ -2,4 +2,9 @@
 DoubleLinkedList|11|return dummy == dummy -> return size == 0|Check_DoubleLinkedList_isEmpty2
 DoubleLinkedList|24|if(index < 0 || index > size) -> if(index < 0 || index >= size)|Check_DoubleLinkedList_pushFront2
 DoubleLinkedList|17|return dummy.getPrev() -> return dummy.getNext()|Check_DoubleLinkedList_getHead
+DoubleLinkedList|44|return insertAfter(getHead(), data) -> return insertBefore(getHead(), data)|Check_DoubleLinkedList_getHead2
+DoubleLinkedList|41|return insertBefore(getTail(), data) -> return insertAfter(getTail(), data)|Check_DoubleLinkedList_getHead2
 DoubleLinkedList|20|return dummy.getNext() -> return dummy.getPrev()|Check_DoubleLinkedList_getTaill
+DoubleLinkedList|33|--size -> ++size|Check_DoubleLinkedList_get
+DoubleLinkedList|62| -> size += list.getSize()|Check_DoubleLinkedList_insertListAfter
+DoubleLinkedList|28|cur = cur.getPrev(); -> cur = cur.getNext();|Check_DoubleLinkedList_insertListAfter3
