@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0e585f5-7f2e-44bc-9073-3e86d0923637" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/127_filippova_task_1.txt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/127_filippova_task_1.txt.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/task_1/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task_1/DoubleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/task_1/DynamicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task_1/DynamicArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/task_1/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task_1/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/task_1/Task1_Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/task_1/Task1_Tests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoubleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task1_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1_Tests.java" afterDir="false" />
-    </list>
+    <list default="true" id="b0e585f5-7f2e-44bc-9073-3e86d0923637" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +46,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.Task1_Tests.Check_DoubleLinkedList_insertListBefore2">
+  <component name="RunManager" selected="JUnit.Task1_Tests">
     <configuration name="Task1_Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="task_1" />
       <option name="PACKAGE_NAME" value="" />
@@ -119,8 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_insertListBefore2" />
         <item itemvalue="JUnit.Task1_Tests" />
+        <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_insertListBefore2" />
         <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_isEmpty" />
         <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_getSize" />
         <item itemvalue="JUnit.Task1_Tests.Check_DoubleLinkedList_pushFront" />
