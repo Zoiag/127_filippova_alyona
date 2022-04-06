@@ -1,7 +1,7 @@
 import org.junit.*;
 public class Task2_Tests extends Assert {
     @Test
-    public void Check_BubbleSort_createSorting() {
+    public void Check_BubbleSort_createSorting(){
         BubbleSort<Integer> sorter = new BubbleSort<>();
         Integer[] myArray = {1,2,3};
         sorter.sort(myArray, new SomeComparator());
