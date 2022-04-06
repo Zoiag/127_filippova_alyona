@@ -5,7 +5,7 @@ DoubleLinkedList|44|return insertAfter(getHead(), data); -> return insertBefore(
 DoubleLinkedList|41|return insertBefore(getTail(), data); -> return insertAfter(getTail(), data);|Check_DoubleLinkedList_getHead2
 DoubleLinkedList|20|return dummy.getNext(); -> return dummy.getPrev();|Check_DoubleLinkedList_getTaill
 DoubleLinkedList|33|--size; -> ++size;|Check_DoubleLinkedList_get
-DoubleLinkedList|62| -> size += list.getSize()|Check_DoubleLinkedList_insertListAfter
+DoubleLinkedList|62| -> size += list.getSize();|Check_DoubleLinkedList_insertListAfter
 DoubleLinkedList|28|cur = cur.getPrev(); -> cur = cur.getNext();|Check_DoubleLinkedList_pushFront3
 DoubleLinkedList|47|node.getPrev().setPrev(node.getNext()); -> node.getPrev().setNext(node.getNext());|Check_DoubleLinkedList_remove2
 DoubleLinkedList|48|node.getNext().setNext(node.getPrev()); -> node.getNext().setPrev(node.getPrev());|Check_DoubleLinkedList_remove2
